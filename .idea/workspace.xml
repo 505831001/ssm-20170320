@@ -35,7 +35,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="361">
               <caret line="19" selection-start-line="19" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -60,6 +60,9 @@
     <replaceStrings>
       <replace>com.liuweiwei.bean</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -131,6 +134,7 @@
     <option name="width" value="1470" />
     <option name="height" value="938" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -418,8 +422,16 @@
       <workItem from="1585567789793" duration="931000" />
       <workItem from="1585570804143" duration="71000" />
       <workItem from="1589811458147" duration="99000" />
-      <workItem from="1596274993217" duration="238000" />
+      <workItem from="1596274993217" duration="523000" />
     </task>
+    <task id="LOCAL-00001" summary="[2020-8-1]ssm-20170320">
+      <created>1596275457180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596275457180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -449,13 +461,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13879000" />
+    <option name="totallyTimeSpent" value="14158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="450" y="104" width="1470" height="938" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26170212" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26170212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -466,7 +478,7 @@
       <window_info anchor="bottom" id="Analysis" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50931674" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50931674" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -494,6 +506,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[2020-8-1]ssm-20170320" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2020-8-1]ssm-20170320" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/jquery-1.12.4.min.js">
@@ -706,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="361">
           <caret line="19" selection-start-line="19" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
