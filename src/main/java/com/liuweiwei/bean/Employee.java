@@ -2,13 +2,6 @@ package com.liuweiwei.bean;
 
 import javax.validation.constraints.Pattern;
 
-import lombok.Data;
-import lombok.ToString;
-import org.hibernate.validator.constraints.Email;
-import org.hibernate.validator.constraints.Length;
-
-@Data
-@ToString
 public class Employee {
     private Integer empId;
     @Pattern(regexp = "(^[a-zA-Z0-9_-]{6,16}$)|(^[\u2E80-\u9FFF]{2,5})", message = "加个用户名验证注解@Pattern.")
