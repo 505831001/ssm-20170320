@@ -38,14 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Msg.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="589">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="60" selection-start-line="60" selection-start-column="4" selection-end-line="64" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -96,10 +105,10 @@
         <option value="$PROJECT_DIR$/src/test/java/com/liuweiwei/test/MvcTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/liuweiwei/test/MapperTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/DepartmentExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Department.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Employee.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -429,7 +438,7 @@
       <workItem from="1585570804143" duration="71000" />
       <workItem from="1589811458147" duration="99000" />
       <workItem from="1596274993217" duration="1404000" />
-      <workItem from="1596276415491" duration="242000" />
+      <workItem from="1596276415491" duration="450000" />
     </task>
     <task id="LOCAL-00001" summary="[2020-8-1]ssm-20170320">
       <created>1596275457180</created>
@@ -466,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596276588549</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[2020-8-1]ssm-20170320">
+      <created>1596276735855</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596276735855</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -496,11 +512,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15281000" />
+    <option name="totallyTimeSpent" value="15489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="450" y="104" width="1470" height="938" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26524824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -718,13 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/DepartmentExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -752,10 +760,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Msg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="60" selection-start-line="60" selection-start-column="4" selection-end-line="64" selection-end-column="25" />
         </state>
       </provider>
     </entry>
