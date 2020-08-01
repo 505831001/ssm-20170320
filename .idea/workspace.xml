@@ -23,20 +23,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Department.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Msg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" selection-start-line="19" selection-end-line="20" />
+            <state relative-caret-position="589">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +97,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/liuweiwei/test/MapperTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Department.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/DepartmentExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Department.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Employee.java" />
       </list>
     </option>
@@ -140,8 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +247,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -423,6 +429,7 @@
       <workItem from="1585570804143" duration="71000" />
       <workItem from="1589811458147" duration="99000" />
       <workItem from="1596274993217" duration="1404000" />
+      <workItem from="1596276415491" duration="242000" />
     </task>
     <task id="LOCAL-00001" summary="[2020-8-1]ssm-20170320">
       <created>1596275457180</created>
@@ -445,7 +452,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596275547291</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[2020-8-1]ssm-20170320">
+      <created>1596276431284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596276431284</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[2020-8-1]ssm-20170320">
+      <created>1596276588549</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596276588549</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -475,13 +496,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15039000" />
+    <option name="totallyTimeSpent" value="15281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="450" y="104" width="1470" height="938" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26170212" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26524824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -489,7 +510,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Analysis" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.50931674" />
@@ -506,6 +526,7 @@
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32971016" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.3289689" />
+      <window_info anchor="bottom" id="Analysis" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -591,16 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
           <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Msg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -726,18 +737,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="20" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuweiwei/bean/Msg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
